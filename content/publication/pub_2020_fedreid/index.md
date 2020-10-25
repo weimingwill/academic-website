@@ -53,9 +53,9 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2008.11560"
+url_pdf = "https://dl.acm.org/doi/abs/10.1145/3394171.3413814"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/"
 url_dataset = ""
 url_project = ""
 url_slides = ""

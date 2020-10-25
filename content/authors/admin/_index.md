@@ -44,6 +44,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/weimingwill
+- icon: blog
+  icon_pack: fas
+  link: https://blog.weiming.me
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +65,4 @@ email: ""
 
 I am currently a second-year Ph.D. student at School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore. 
 
-I am in Cloud Computing Platform and Application Group (CAP), NTU, supervised by Prof. Yonggang Wen. Before that, I received my bachelor’s degree from National University of Singapore in February 2017.
+I am in Cloud Computing Platform and Application Group (CAP), NTU, supervised by Prof. Yonggang Wen. Before that, I received my bachelor’s degree from National University of Singapore.
