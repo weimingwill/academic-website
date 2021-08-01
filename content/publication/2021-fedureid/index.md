@@ -16,7 +16,7 @@ publishDate: 2021-08-01T20:26:59+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM Multimedia 2021"
+publication: "ACM Multimedia, 2021 (ACMMM)"
 publication_short: "ACMMM'21"
 
 abstract: "Coming soon..."

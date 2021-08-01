@@ -17,7 +17,7 @@ authors = ["Weiming Zhuang, Yonggang Wen, Xuesen Zhang, Xin Gan, Daiying Yin, Do
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "ACM Multimedia 2020 (Oral)"
+publication = "ACM Multimedia, 2020 (ACMMM, Oral)"
 publication_short = "ACMMM'20 (Oral)"
 
 # Abstract.

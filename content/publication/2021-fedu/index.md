@@ -16,7 +16,7 @@ publishDate: 2021-08-01T20:36:50+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE/CVF International Conference on Computer Vision, 2021"
+publication: "IEEE/CVF International Conference on Computer Vision, 2021 (ICCV)"
 publication_short: "ICCV'21"
 
 abstract: "Coming soon..."
