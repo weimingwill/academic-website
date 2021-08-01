@@ -1,5 +1,22 @@
 <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
+# Frequently Used Commands
+
+```
+# Install Hugo
+brew install hugo 
+
+# Need to install go to run
+brew install go
+
+# Create a new publication
+hugo new --kind publication publication/<folder>
+
+# Start Hugo server
+hugo server -D
+```
+
+
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
 The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.

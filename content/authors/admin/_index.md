@@ -23,6 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Federated Learning
 - Machine Learning Systems
+- Computer Vision
 
 education:
   courses:
@@ -44,6 +45,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/weimingwill
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/weiming-zhuang/
 - icon: blog
   icon_pack: fas
   link: https://blog.weiming.me
