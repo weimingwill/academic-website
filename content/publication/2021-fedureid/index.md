@@ -39,7 +39,7 @@ featured: false
 url_pdf: "https://arxiv.org/abs/2108.06493"
 url_code: "https://github.com/cap-ntu/FedReID"
 url_dataset:
-url_poster:
+url_poster: "FedUReID_mm21_poster.pdf"
 url_project:
 url_slides:
 url_source:
