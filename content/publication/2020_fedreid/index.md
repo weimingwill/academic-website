@@ -59,7 +59,7 @@ url_code = "https://github.com/cap-ntu/FedReID"
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://youtu.be/LpA55fwda_g"
 url_poster = ""
 url_source = ""
 

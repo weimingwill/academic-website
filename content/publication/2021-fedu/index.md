@@ -36,10 +36,10 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/abs/2108.06492"
+url_pdf: "https://openaccess.thecvf.com/content/ICCV2021/html/Zhuang_Collaborative_Unsupervised_Visual_Representation_Learning_From_Decentralized_Data_ICCV_2021_paper.html"
 url_code:
-url_dataset:
-url_poster:
+url_dataset: "https://www.cs.toronto.edu/~kriz/cifar.html"
+url_poster: "fedu-poster.pdf"
 url_project:
 url_slides:
 url_source:

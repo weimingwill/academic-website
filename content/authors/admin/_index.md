@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include federated learning, machine learning system, and computer vison.
+bio: My research interests include federated learning, computer vison, and machine learning system.
 
 interests:
 - Federated Learning
-- Machine Learning Systems
 - Computer Vision
+- Machine Learning Systems
 
 education:
   courses:
@@ -39,18 +39,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:wingalong@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/weimingwill
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/weiming-zhuang/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=lLuLAzEAAAAJ&view_op=list_works
 - icon: blog
   icon_pack: fas
   link: https://blog.weiming.me
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:wingalong@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,6 +70,6 @@ email: ""
 # - Visitors
 ---
 
-I am currently a second-year Ph.D. student at School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore. 
+I am currently a third-year Ph.D. student at School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore. 
 
-I am in Cloud Computing Platform and Application Group (CAP), NTU, supervised by Prof. Yonggang Wen. Before that, I received my bachelor’s degree from National University of Singapore.
+I am in Cloud Computing Platform and Application Group (CAP), NTU, supervised by [Prof. Yonggang Wen](https://personal.ntu.edu.sg/ygwen/). Before that, I received my bachelor’s degree from National University of Singapore.
