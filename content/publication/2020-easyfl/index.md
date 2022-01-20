@@ -13,11 +13,11 @@ publishDate: 2021-08-18T15:44:47+08:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preprint"
-publication_short: "Arxiv"
+publication: "IEEE Internet of Things Journal ( Early Access )"
+publication_short: "IoTJ"
 
 abstract: "Academia and industry have developed several platforms to support the popular privacy-preserving distributed learning method -- Federated Learning (FL). However, these platforms are complex to use and require a deep understanding of FL, which imposes high barriers to entry for beginners, limits the productivity of researchers, and compromises deployment efficiency. In this paper, we propose the first low-code FL platform, EasyFL, to enable users with various levels of expertise to experiment and prototype FL applications with little coding. We achieve this goal while ensuring great flexibility and extensibility for customization by unifying simple API design, modular design, and granular training flow abstraction. With only a few lines of code, EasyFL empowers them with many out-of-the-box functionalities to accelerate experimentation and deployment. These practical functionalities are heterogeneity simulation, comprehensive tracking, distributed training optimization, and seamless deployment. They are proposed based on challenges identified in the proposed FL life cycle. Compared with other platforms, EasyFL not only requires just three lines of code (at least 10x lesser) to build a vanilla FL application but also incurs lower training overhead. Besides, our evaluations demonstrate that EasyFL expedites distributed training by 1.5x. It also improves the efficiency of deployment. We believe that EasyFL will increase the productivity of researchers and democratize FL to wider audiences."
 
