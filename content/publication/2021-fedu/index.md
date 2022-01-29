@@ -43,7 +43,7 @@ url_poster: "fedu_iccv21_poster.pdf"
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: "https://www.youtube.com/watch?v=Dtbhd7z-CH0"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
