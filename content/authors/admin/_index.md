@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include federated learning, computer vison, and machine learning system.
+bio: My current research interests include federated learning, computer vison, self-supervised learning, and machine learning system.
 
 interests:
 - Federated Learning
 - Computer Vision
-- Machine Learning Systems
+- Self-supervised Learning
+- Machine Learning System
 
 education:
   courses:
