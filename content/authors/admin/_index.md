@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Weiming ZHUANG
+title: Weiming Zhuang
 
 # Username (this should match the folder name)
 authors:
@@ -68,6 +68,8 @@ email: ""
 # user_groups:
 # - Researchers
 # - Visitors
+
+highlight_name: true
 ---
 
 I am currently a third-year Ph.D. student at School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore. 
