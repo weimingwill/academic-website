@@ -11,5 +11,6 @@ design:
   columns: '1'
 ---
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=3f70b5&w=300&t=n&d=fBgP3W7WhQGjHBXS_ef-XizbFyKtyNeJyVkFbGYRRBE&co=ffffff&ct=3f3f3f&cmo=ff9797&cmn=e86666'></script>
+<div class="map">
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=3f70b5&w=300&t=n&d=fBgP3W7WhQGjHBXS_ef-XizbFyKtyNeJyVkFbGYRRBE&co=ffffff&ct=3f3f3f&cmo=ff9797&cmn=e86666'></script>
+</div>
