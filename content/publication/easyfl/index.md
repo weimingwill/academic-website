@@ -42,7 +42,7 @@ featured: true
 #   icon: twitter
 
 url_pdf: "https://arxiv.org/abs/2105.07603"
-url_code:
+url_code: "https://github.com/EasyFL-AI/EasyFL"
 url_dataset:
 url_poster:
 url_project:

@@ -41,7 +41,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: "https://arxiv.org/abs/2108.06493"
-url_code: "https://github.com/cap-ntu/FedReID"
+url_code: "https://github.com/EasyFL-AI/EasyFL"
 url_dataset:
 url_poster: "FedUReID_mm21_poster.pdf"
 url_project:
