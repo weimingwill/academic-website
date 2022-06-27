@@ -46,7 +46,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://dl.acm.org/doi/abs/10.1145/3394171.3413814
-url_code: https://github.com/cap-ntu/FedReID
+url_code: https://github.com/EasyFL-AI/EasyFL/tree/master/applications/fedreid
 url_dataset:
 url_poster:
 url_project:

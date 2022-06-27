@@ -41,7 +41,7 @@ featured: true
 #   icon: twitter
 
 url_pdf: "https://openreview.net/forum?id=oVE1z8NlNe"
-url_code: "https://github.com/EasyFL-AI/EasyFL"
+url_code: "https://github.com/EasyFL-AI/EasyFL/tree/master/applications/fedssl"
 url_dataset:
 url_poster:
 url_project:

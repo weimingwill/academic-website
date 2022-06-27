@@ -41,7 +41,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://dl.acm.org/doi/10.1145/3531013
-url_code: https://github.com/EasyFL-AI/EasyFL
+url_code: https://github.com/EasyFL-AI/EasyFL/tree/master/applications/fedreid
 url_dataset:
 url_poster:
 url_project:
