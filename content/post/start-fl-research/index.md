@@ -51,7 +51,7 @@ This post divides the process to learn FL and conduct research on FL into three 
 
 ## Stage 1: Understand Federated Learning
 
-The objective in this stage is to understand federated learning and the challenges in FL research.
+The objective of this stage is to understand federated learning and the challenges in FL research.
 
 ### Understand What is Federated Learning
 
@@ -139,7 +139,7 @@ You can read the solutions and details in two of the previous papers and extend 
 - [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977)
 - [Papers for different FL challenges](https://github.com/weimingwill/awesome-federated-learning#paper-by-research-area)
 
-Hopefully, this process could help you determine a direction you want to put more efforts in. 
+Hopefully, this process could help you determine a direction you want to put more effort in. 
 
 ## Stage 3: Start Experiments
 
