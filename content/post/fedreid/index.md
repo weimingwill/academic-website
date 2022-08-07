@@ -3,7 +3,7 @@ title: "Federated Person Re-identification: Benchmark, In-Depth Analysis, and Pe
 subtitle:  
 
 # Summary for listings and search engines
-summary: Performance Optimization for Federated Person Re-identification via Benchmark Analysis
+summary: Performance optimization for federated person re-identification via benchmark analysis.
 
 # Link this post with a project
 projects: []
