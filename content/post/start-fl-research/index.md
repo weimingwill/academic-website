@@ -1,6 +1,6 @@
 ---
 title: "How to Kick Start Your Federated Learning Research?"
-subtitle:  
+subtitle:
 
 # Summary for listings and search engines
 summary: Practical route to learn FL and conduct FL research.
@@ -39,15 +39,15 @@ categories:
 - research
 ---
 
-Federated learning (FL) is an emerging research field that attracts considerable attention from both academia and the industry. This concept is first proposed by Google in 2016. Google aims to implement FL to Google Keyboard to protect users’ data privacy. I have been doing research on FL for several years and my Ph.D. thesis focuses on this topic. During these years, I have seen an [increasing number of top-tier publications](https://github.com/weimingwill/awesome-federated-learning/blob/master/conferences.md) and increasing adoption of this technology in companies. I would like to summarize some of my experiences and provide a three-stage route for students/researchers who want to enter this field. 
+Federated learning (FL) is an emerging research field that attracts considerable attention from both academia and the industry. This concept is first proposed by Google in 2016. Google aims to implement FL to Google Keyboard to protect users’ data privacy. I have been doing research on FL for several years and my Ph.D. thesis focuses on this topic. During these years, I have seen an [increasing number of top-tier publications](https://github.com/weimingwill/awesome-federated-learning/blob/master/conferences.md) and increasing adoption of this technology in companies. I would like to summarize some of my experiences and provide a three-stage route for students/researchers who want to enter this field.
 
-This post would be useful for you if you are 
+This post would be useful for you if you are
 
 - a postgraduate, who wants to conduct research in FL
 - a researcher, who wants to research on FL or adopt FL to the company
 - an undergraduate, who wants to focus on FL as your final year project
 
-This post divides the process to learn FL and conduct research on FL into three different stages. In each stage, I have provided some materials that could best facilitate you and the questions you could think about while going through these materials. By the end of each stage, you would have a deeper understanding of FL. 
+This post divides the process to learn FL and conduct research on FL into three different stages. In each stage, I have provided some materials that could best facilitate you and the questions you could think about while going through these materials. By the end of each stage, you would have a deeper understanding of FL.
 
 ## Stage 1: Understand Federated Learning
 
@@ -64,7 +64,7 @@ The first step is to understand the concept of federated learning (FL). Think ab
 - What are the different categories of FL?
 - Can you come up with some analogies for FL?
 
-The following are the contents to learn from: 
+The following are the contents to learn from:
 
 - [**Federated Learning Comic**](https://federated.withgoogle.com/)
 - [**Federated Learning Tutorial**](https://sites.google.com/view/fl-tutorial/)
@@ -85,7 +85,7 @@ The next step is to understand the challenges in FL if you want to conduct resea
 - Are these challenges equally important in applications?
 - If you have a specific application in mind, you can use it as an example to analyze the potential challenges.
 
-> Note: You may skip the solutions for these challenges at this stage. 
+> Note: You may skip the solutions for these challenges at this stage.
 
 The following are contents to learn from:
 
@@ -122,7 +122,7 @@ You can either choose to work on challenges you learned previously or propose a 
     - Is there a meaningful milestone you can reach fast?
         - This is important as we do not want to put in effort for 2-3 years without any outcomes. It is important to break down a big problem into smaller problems.
 
-To answer some of these questions, you may need to understand more about existing solutions to make the decision. 
+To answer some of these questions, you may need to understand more about existing solutions to make the decision.
 
 ### Understand Existing Solutions and Analyze Gaps
 
@@ -139,13 +139,13 @@ You can read the solutions and details in two of the previous papers and extend 
 - [Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977)
 - [Papers for different FL challenges](https://github.com/weimingwill/awesome-federated-learning#paper-by-research-area)
 
-Hopefully, this process could help you determine a direction you want to put more effort in. 
+Hopefully, this process could help you determine a direction you want to put more effort in.
 
 ## Stage 3: Start Experiments
 
-The next step is to run experiments on the baseline solutions and implement your ideas. You can implement FL from scratch, but a better way is to use an established federated learning framework. 
+The next step is to run experiments on the baseline solutions and implement your ideas. You can implement FL from scratch, but a better way is to use an established federated learning framework.
 
-I would like to recommend [EasyFL](https://github.com/EasyFL-AI/easyfl), an easy-to-use federated learning platform that aims to enable users with various levels of expertise to experiment and prototype FL applications with little/no coding. 
+I would like to recommend [EasyFL](https://github.com/EasyFL-AI/easyfl), an easy-to-use federated learning platform that aims to enable users with various levels of expertise to experiment and prototype FL applications with little/no coding.
 
 We develop EasyFL based on our years of research in this field (8 papers accepted in top-tier conferences/journals). Several of our papers in top-tier conferences (e.g., ICLR, ICCV) are developed based on it. It is simple to install and easy to use. You can run and play around with it simply on your laptop.
 
@@ -154,6 +154,6 @@ The following are some of the useful links:
 - Github: https://github.com/EasyFL-AI/easyfl
 - Tutorials: [https://easyfl.readthedocs.io/en/latest/tutorials/high-level_apis.html](https://easyfl.readthedocs.io/en/latest/tutorials/high-level_apis.html)
 
-In this post, I have shared a route in three stages to kick-start research on federated learning. I hope that these materials could help you and smooth the learning process. 
+In this post, I have shared a route in three stages to kick-start research on federated learning. I hope that these materials could help you and smooth the learning process.
 
 Lastly, you are encouraged to try out [EasyFL](https://github.com/EasyFL-AI/easyfl); If you find it useful, please help us star the repository and let others know.
