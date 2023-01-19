@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD. Candidate
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD
+  - course: Ph.D.
     institution: Nanyang Technological University
     year: 2019 - present
   - course: BSc(Hons) in Information System
