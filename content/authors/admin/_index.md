@@ -10,27 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Nanyang Technological University
+- name: Sony AI
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My current research interests include federated learning, computer vison, self-supervised learning, and machine learning system.
 
 interests:
+- AI Privacy and Security
 - Federated Learning
-- Computer Vision
-- Self-supervised Learning
 - Machine Learning System
+- Efficient On-device ML
+- Computer Vision
 
 education:
   courses:
   - course: Ph.D.
     institution: Nanyang Technological University
-    year: 2019 - present
+    year: 2019 - 2022
   - course: BSc(Hons) in Information System
     institution: National Unviersity of Singapore
     year: 2013 - 2016
@@ -73,6 +74,7 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a third-year Ph.D. student at School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore. 
+I am a research scientist in Privacy-Preserving Machine Learning (PPML) team at Sony AI. Before joining Sony AI, I was a Ph.D. researcher under SenseTime-NTU Talent Programme and obtained Ph.D. from Nanyang Technological University, advised by [Prof. Yonggang Wen](https://personal.ntu.edu.sg/ygwen/). 
+Prior to that, I had years of experimence in software engineering, focusing on build large-scale distributed systems. I obtained my Bachelor's from the School of Computing, National University of Singapore. 
 
-I am in Cloud Computing Platform and Application Group (CAP), NTU, supervised by [Prof. Yonggang Wen](https://personal.ntu.edu.sg/ygwen/). Before that, I received my bachelor’s degree from National University of Singapore.
+<!-- Sony AI has openings for research scientist, software engineers, and research intern, including but not limited to the areas of AI privacy and security, edge intelligence, computer vision. Welcome to apply online, or drop me an email! -->
