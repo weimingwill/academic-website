@@ -74,7 +74,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a research scientist in Privacy-Preserving Machine Learning (PPML) team at Sony AI. Before joining Sony AI, I was a Ph.D. researcher under SenseTime-NTU Talent Programme and obtained Ph.D. from Nanyang Technological University, advised by [Prof. Yonggang Wen](https://personal.ntu.edu.sg/ygwen/). 
+I am a research scientist in Privacy-Preserving Machine Learning (PPML) team led by [Dr. Lingjuan Lyu](https://sites.google.com/view/lingjuan-lyu/home) at Sony AI. Before joining Sony AI, I was a Ph.D. researcher under SenseTime-NTU Talent Programme and obtained Ph.D. from Nanyang Technological University, advised by [Prof. Yonggang Wen](https://personal.ntu.edu.sg/ygwen/). 
 Prior to that, I had years of experimence in software engineering, focusing on build large-scale distributed systems. I obtained my Bachelor's from the School of Computing, National University of Singapore. 
 
 <!-- Sony AI has openings for research scientist, software engineers, and research intern, including but not limited to the areas of AI privacy and security, edge intelligence, computer vision. Welcome to apply online, or drop me an email! -->
