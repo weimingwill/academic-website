@@ -32,7 +32,7 @@ summary: "We propose a novel federated unsupervised learning framework, FedU, to
 
 tags: ["federated learning", "self-supervised learning"]
 categories: ["federated learning", "unsupervised learning", "computer vision"]
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

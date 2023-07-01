@@ -28,7 +28,7 @@ summary: "We propose FedWon, a novel method that eliminates normalizations in FL
 
 tags: ["federated learning", "multi-domain fl"]
 categories: ["federated learning"]
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

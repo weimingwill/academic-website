@@ -7,7 +7,11 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 4
+view: publication/citation
+
+design:
+  # Choose a view for the listings:
+  view: publication/citation
 
 # Optional header image (relative to `static/media/` folder).
 header:

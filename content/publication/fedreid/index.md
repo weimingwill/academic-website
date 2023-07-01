@@ -35,7 +35,7 @@ summary: "We construct a new benchmark to investigate the performance of FedReID
 
 tags: ["federated learning", "person re-identification"]
 categories: ["federated learning", "computer vision"]
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
