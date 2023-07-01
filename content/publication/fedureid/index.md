@@ -20,7 +20,7 @@ publishDate: 2021-08-01T20:26:59+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM Multimedia, 2021 (ACMMM)"
+publication: "Proceedings of the 29th ACM International Conference on Multimedia (ACMMM'21)"
 publication_short: "ACMMM"
 
 abstract: "Person re-identification (ReID) aims to re-identify a person from non-overlapping camera views. Since person ReID data contains sensitive personal information, researchers have adopted federated learning, an emerging distributed training method, to mitigate the privacy leakage risks. However, existing studies rely on data labels that are laborious and time-consuming to obtain. We present FedUReID, a federated unsupervised person ReID system to learn person ReID models without any labels while preserving privacy. FedUReID enables in-situ model training on edges with unlabeled data. A cloud server aggregates models from edges instead of centralizing raw data to preserve data privacy. Moreover, to tackle the problem that edges vary in data volumes and distributions, we personalize training in edges with joint optimization of cloud and edge. Specifically, we propose personalized epoch to reassign computation throughout training, personalized clustering to iteratively predict suitable labels for unlabeled data, and personalized update to adapt the server aggregated model to each edge. Extensive experiments on eight person ReID datasets demonstrate that FedUReID not only achieves higher accuracy but also reduces computation cost by 29%. Our FedUReID system with the joint optimization will shed light on implementing federated learning to more multimedia tasks without data labels."
@@ -28,7 +28,7 @@ abstract: "Person re-identification (ReID) aims to re-identify a person from non
 # Summary. An optional shortened abstract.
 summary: "We present FedUReID, a federated unsupervised person ReID system to learn person ReID models without any labels while preserving privacy. FedUReID enables in-situ model training on edges with unlabeled data. A cloud server aggregates models from edges instead of centralizing raw data to preserve data privacy. Moreover, to tackle the problem that edges vary in data volumes and distributions, we personalize training in edges with joint optimization of cloud and edge. Specifically, we propose personalized epoch to reassign computation throughout training, personalized clustering to iteratively predict suitable labels for unlabeled data, and personalized update to adapt the server aggregated model to each edge."
 
-tags: ["federated learning", "person re-identification"]
+tags: ["federated learning", "person re-identification",  "computer vision"]
 categories: ["federated learning", "unsupervised learning", "computer vision"]
 featured: false
 

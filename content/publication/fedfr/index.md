@@ -23,7 +23,7 @@ publishDate: 2022-03-09T09:02:27+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE International Conference on Multimedia and Expo, 2022 (ICME, Oral)"
+publication: "2022 IEEE International Conference on Multimedia and Expo (ICME'22, Oral)"
 publication_short: "ICME"
 
 abstract: "Given labeled data in a source domain, unsupervised domain adaptation has been widely adopted to generalize models for unlabeled data in a target domain, whose data distributions are different. However, existing works are inapplicable to face recognition under privacy constraints because they require sharing of sensitive face images between domains. To address this problem, we propose federated unsupervised domain adaptation for face recognition, FedFR. FedFR jointly optimizes clustering-based domain adaptation and federated learning to elevate performance on the target domain. Specifically, for unlabeled data in the target domain, we enhance a clustering algorithm with distance constrain to improve the quality of predicted pseudo labels. Besides, we propose a new domain constraint loss (DCL) to regularize source domain training in federated learning. Extensive experiments on a newly constructed benchmark demonstrate that FedFR outperforms the baseline and classic methods on the target domain by 3% to 14% on different evaluation metrics."
