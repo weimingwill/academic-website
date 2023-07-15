@@ -16,8 +16,8 @@ publishDate: 2023-07-03T10:02:52+08:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Workshop on Federated Learning for Distributed Data Mining"
-publication_short: "FL4DataMining"
+publication: "International Workshop on Federated Learning for Distributed Data Mining (FL4DataMining-KDD'23)"
+publication_short: "FL4DataMining (FL-KDD)"
 
 abstract: "Federated learning (FL) is an effective machine learning paradigm where multiple clients can train models based on heterogeneous data in a decentralized manner without accessing their private data. However, existing FL systems undergo performance deterioration due to feature-level test-time shifts, which are well investigated in centralized settings but rarely studied in FL. The common non-IID issue in FL usually refers to inter-client heterogeneity during training phase, while the test-time shift refers to the intra-client heterogeneity during test phase. To explore the possibility of using inter-client heterogeneity in handling intra-client heterogeneity, we firstly propose a contrastive learning-based FL framework, namely FedICON, to capture invariant knowledge among heterogeneous clients and consistently tune the model to adapt to test data. Extensive experiments validate the effectiveness of the proposed FedICON in taming heterogeneity to handle test-time shift problems."
 
