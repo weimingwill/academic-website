@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Addressing Catastrophic Forgetting in Federated Class-Continual Learning"
+title: "TARGET: Addressing Catastrophic Forgetting in Federated Class-Continual Learning"
 authors:
 - Jie Zhang
 - Chen Chen
