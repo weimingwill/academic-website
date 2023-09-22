@@ -29,6 +29,7 @@ author: admin
     <a href="https://ai.sony/joinus/job-roles/research-scientist-privacy-preserving-machine-learning/">research scientist</a>, 
     <a href="https://ai.sony/joinus/job-roles/Research-Engineer-Privacy-Preserving-and-Secure-AI/">research engineer</a>, and <a href="https://ai.sony/joinus/job-roles/research-intern-privacy-preserving-machine-learning/">research intern</a>. Welcome to apply online or drop me an email!</li>
   <!-- <li>[2022]: I have defended my PhD Thesis on Toward a generic federated learning platform optimized for computer vision applications</li> -->
+  <li>[2023-09]: Our <a href="publication/fedicon/">work</a> on handling test-time shift in federated learning has been accepted to NeurIPS'23.</li>
   <li>[2023-07]: Two works have been accepted to ICCV'23. They are on <a href="publication/mas/">federated multiple-task learning</a> and <a href="publication/fl-continual/">federate continual learning</a>.</li>
   <li>[2023-07]: Our <a href="https://weiming.me/publication/fedwon/">work</a> on federated learning without normalizations has been accepted to KDD-FL4DataMining'23 (<span style="font-weight:bold">Best Industry Paper Award</span>) and FL-IJCAI'23.</li>
   <li>[2022-11]: I joined <a href="https://ai.sony/">Sony AI</a> as a Research Scientist.</li>
