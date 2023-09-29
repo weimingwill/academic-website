@@ -37,7 +37,7 @@ featured: true
 #   icon: twitter
 
 url_pdf: https://arxiv.org/abs/2307.11285
-url_code:
+url_code: https://github.com/EasyFL-AI/EasyFL/tree/master/applications/mas
 url_dataset:
 url_poster:
 url_project:

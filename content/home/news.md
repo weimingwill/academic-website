@@ -29,14 +29,14 @@ author: admin
     <a href="https://ai.sony/joinus/job-roles/research-scientist-privacy-preserving-machine-learning/">research scientist</a>, 
     <a href="https://ai.sony/joinus/job-roles/Research-Engineer-Privacy-Preserving-and-Secure-AI/">research engineer</a>, and <a href="https://ai.sony/joinus/job-roles/research-intern-privacy-preserving-machine-learning/">research intern</a>. Welcome to apply online or drop me an email!</li>
   <!-- <li>[2022]: I have defended my PhD Thesis on Toward a generic federated learning platform optimized for computer vision applications</li> -->
-  <li>[2023-09]: Our <a href="publication/fedicon/">work</a> on handling test-time shift in federated learning has been accepted to NeurIPS'23.</li>
-  <li>[2023-07]: Two works have been accepted to ICCV'23. They are on <a href="publication/mas/">federated multiple-task learning</a> and <a href="publication/fl-continual/">federate continual learning</a>.</li>
-  <li>[2023-07]: Our <a href="https://weiming.me/publication/fedwon/">work</a> on federated learning without normalizations has been accepted to KDD-FL4DataMining'23 (<span style="font-weight:bold">Best Industry Paper Award</span>) and FL-IJCAI'23.</li>
+  <li>[2023-09]: One paper is accepted by NeurIPS'23. This <a href="publication/fedicon/">work</a> is about handling test-time shift in federated learning.</li>
+  <li>[2023-07]: Two papers have been accepted to ICCV'23. They are on <a href="publication/mas/">federated multiple-task learning</a> and <a href="publication/fl-continual/">federate continual learning</a>.</li>
+  <li>[2023-07]: One paper is accepted by KDD-FL4DataMining'23 (<span style="font-weight:bold">Best Industry Paper Award</span>) and FL-IJCAI'23. This <a href="https://weiming.me/publication/fedwon/">work</a> is about federated learning without normalizations.</li>
   <li>[2022-11]: I joined <a href="https://ai.sony/">Sony AI</a> as a Research Scientist.</li>
-  <li>[2022-02]: Our <a href="https://weiming.me/publication/fedssl/">work</a> on federated self-supervised learning has been accepted to ICLR'22.</li>
-  <li>[2022-01]: Our <a href="https://weiming.me/publication/easyfl/">work</a> on federated platform has been published at IEEE Internet of Things Journal.</li>
-  <li>[2021-07]: Our <a href="https://weiming.me/publication/fedu/">work</a> on federated self-supervised learning has been accepted to ICCV'21.</li>
-  <li>[2021-07]: Our <a href="https://weiming.me/publication/fedureid/">work</a> on federated unsupervised person reid has been accepted to ACMMM'21.</li>
+  <li>[2022-02]: One paper is accepted by ICLR'22. This <a href="https://weiming.me/publication/fedssl/">work</a> is about federated self-supervised learning.</li>
+  <li>[2022-01]: One paper is published by IEEE Internet of Things Journal. This <a href="https://weiming.me/publication/easyfl/">work</a> is about federated learning platform.</li>
+  <li>[2021-07]: One paper is accepted by ICCV'21. This <a href="https://weiming.me/publication/fedu/">work</a> is about federated self-supervised learning.</li>
+  <li>[2021-07]: One paper is accepted by ACMMM'21. This <a href="https://weiming.me/publication/fedureid/">work</a> is about federated unsupervised person reid.</li>
   <!-- <li>[2020-07]: Our <a href="https://weiming.me/publication/fedreid/">work</a> on federated person reid has been accepted at ACMMM'20.</li> -->
 </ul>
 <style>
