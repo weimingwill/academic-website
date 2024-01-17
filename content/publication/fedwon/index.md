@@ -15,12 +15,12 @@ publishDate: 2023-06-13T10:34:53+08:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Workshop on Federated Learning for Distributed Data Mining (KDD-FL4DataMining'23 Best Industry Paper Award) & International Workshop on Trustworthy Federated Learning
+publication: "International Conference on Learning Representations 2024 (ICLR'24) & International Workshop on Federated Learning for Distributed Data Mining (KDD-FL4DataMining'23 Best Industry Paper Award) & International Workshop on Trustworthy Federated Learning
 in Conjunction with IJCAI 2023 (FL-IJCAI'23)"
-publication_short: "KDD-FL4DataMining (Best Industry Paper Award), FL-IJCAI"
+publication_short: "ICLR, KDD-FL4DataMining (Best Industry Paper Award), FL-IJCAI"
 
 abstract: "Federated learning (FL) enhances data privacy with collaborative in-situ training on decentralized clients. Nevertheless, FL encounters challenges due to non-independent and identically distributed (non-i.i.d) data, leading to potential performance degradation and hindered convergence. While prior studies predominantly addressed the issue of skewed label distribution, our research addresses a crucial yet frequently overlooked problem known as multi-domain FL. In this scenario, clients' data originate from diverse domains with distinct feature distributions, as opposed to label distributions. To address the multi-domain problem in FL, we propose a novel method called Federated learning Without normalizations (FedWon). FedWon draws inspiration from the observation that batch normalization (BN) faces challenges in effectively modeling the statistics of multiple domains, while alternative normalization techniques possess their own limitations. In order to address these issues, FedWon eliminates all normalizations in FL and reparameterizes convolution layers with scaled weight standardization. Through comprehensive experimentation on four datasets and four models, our results demonstrate that FedWon surpasses both FedAvg and the current state-of-the-art method (FedBN) across all experimental setups, achieving notable improvements of over 10% in certain domains. Furthermore, FedWon is versatile for both cross-silo and cross-device FL, exhibiting strong performance even with a batch size as small as 1, thereby catering to resource-constrained devices. Additionally, FedWon effectively tackles the challenge of skewed label distribution."
 
